@@ -10,6 +10,7 @@
 ## Overview of the project
 
 ### Project: Data Preprocessing on Life Expectancy Dataset
+![dp](https://github.com/user-attachments/assets/bc8caf9b-92e4-48a3-baed-f561b5ac8a5c)
 
 ### Objective 
 The objective of this project is to clean the dataset that contains the life expectancy of the population. The aim is to remove duplicates, treating missing values, correlations, outliers.
