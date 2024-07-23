@@ -1,8 +1,8 @@
-- **Name:**RAMYA KUMAR
-- **Company:**CODTECH IT SOLUTIONS
-- **ID:**CT4AI3059
-- **Domain:**Artificial Intelligence
-- **Duration:**June to July 2024
+- **Name** :RAMYA KUMAR
+- **Company** :CODTECH IT SOLUTIONS
+- **ID** :CT4AI3059
+- **Domain**  :Artificial Intelligence
+- **Duration** :June to July 2024
 
 
 
@@ -19,8 +19,8 @@ The objective of this project is to clean the dataset that contains the life exp
 - **EDA** : To uncover the relationship among the population, correlations, outliers.
 
 ### Technologies Used 
-- **Python
-- **Pandas
-- **Numpy
-- **Seaborn
-Matplotlib
+- **Python**
+- **Pandas**
+- **Numpy**
+- **Seaborn**
+- **Matplotlib**
