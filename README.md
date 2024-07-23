@@ -15,8 +15,8 @@
 The objective of this project is to clean the dataset that contains the life expectancy of the population. The aim is to remove duplicates, treating missing values, correlations, outliers.
 
 ### Key Activities
-**Data CLeaning** : Ensuring the data set is free from missing values and duplicates.
-**EDA** : To uncover the relationship among the population, correlations, outliers.
+- **Data CLeaning** : Ensuring the data set is free from missing values and duplicates.
+- **EDA** : To uncover the relationship among the population, correlations, outliers.
 
 ### Technologies Used 
 **Python
