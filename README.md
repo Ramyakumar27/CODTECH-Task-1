@@ -29,8 +29,9 @@ The objective of this project is to clean the dataset that contains the life exp
 - **EDA** : To uncover the relationship among the population, correlations, outliers.
 
 ### Technologies Used 
-- **Python**
-- **Pandas**
-- **Numpy**
-- **Seaborn**
-- **Matplotlib**
+- **Python**: High-level programming language emphasizing code readability and simplicity. 
+- **Pandas**: High-level programming language emphasizing code readability and simplicity.
+- **Numpy**: Fundamental package for numerical computing with support for arrays and matrices.
+- **Seaborn**: Statistical data visualization based on Matplotlib, offering attractive statistical graphics.
+- **Matplotlib**: Comprehensive plotting library for creating static, animated, and interactive visualizations in Python.
+
